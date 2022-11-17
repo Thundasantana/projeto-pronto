@@ -1,0 +1,17 @@
+.home-container {
+  padding: 40px;
+}
+
+.text-h6 {
+  color: #7e7e7e;
+  font-family: 'Roboto';
+  padding-bottom: 35px;
+}
+
+.start-button {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #fff;
+  width: 101px;
+  height: 40px;
+}

@@ -1,0 +1,27 @@
+.result-container {
+  border: 1px solid #d9d9d9;
+  height: 40px;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 5px;
+  display: flex;
+  margin-bottom: 5px;
+  padding: 8px;
+}
+
+.result-title {
+  color: #737373;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.result-description {
+  margin-left: 5px;
+  color: #737373;
+  font-size: 14px;
+}
+
+.result-description a.active {
+  font-weight: bold;
+  background-color: #0029ff;
+}
